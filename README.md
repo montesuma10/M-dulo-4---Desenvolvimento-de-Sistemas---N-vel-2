@@ -1,5 +1,6 @@
-
-# **Comércio Fácil**
+<div align="center">
+<img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/logo.png" height="200">
+</div>
 
 colocar logo e nome embaixo centralizado
 ## Índice
@@ -22,9 +23,10 @@ Esta aplicação consiste em pesquisar por produtos e preços em feiras/pequenos
 
 
 
-## Aplicação WEB 💻 
-img ou gif de funcionamento
+
 ##  Aplicação Mobile 📱
+img ou gif de funcionamento
+## Aplicação WEB 💻 
 img ou gif de funcionamento
 ## Modelo conceitual 📑
 img do banco
