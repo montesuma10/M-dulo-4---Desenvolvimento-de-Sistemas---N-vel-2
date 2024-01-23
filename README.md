@@ -63,9 +63,7 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
                   
 </div>
 
-### Backend
-### Frontend
-### Banco de dados
+
 
 ## Como contribuir 🙋‍♂️
 
