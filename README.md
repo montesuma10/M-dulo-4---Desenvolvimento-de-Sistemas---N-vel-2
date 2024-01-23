@@ -24,16 +24,19 @@ Esta aplicação consiste em pesquisar por produtos e preços em feiras/pequenos
 
 
 
+
 ##  Aplicação Mobile 📱
-<div align="center">
+<div align="left">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20mobile.png" height="600">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20mobile.png" height="600">
 </div>
 
+
 ## Aplicação WEB 💻 
-<div align="center">
+<div align="left">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20web.png" height="500">
 </div>
+
 
 
 ## Modelo conceitual 📑
