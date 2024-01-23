@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/logo.png" height="200">
+  <h1><strong>Comércio Fácil<strong</h1>
 </div>
 
 
@@ -18,7 +19,11 @@
 ##  Sobre o projeto 💡
 Comércio Fácil é uma aplicação full stack web e mobile contruída durante a jornada da [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo de  2023.
 
-Esta aplicação consiste em pesquisar por produtos e preços em feiras/pequenos comércio próximos a região desejada.🛒
+Esta aplicação tem por objetivo conectar de forma eficas o pequeno comércio aos seus clientes.
+Nesta plataforma os clientes podem pesquisar por feiras, filtrar seus produtos e visualizar preços, além do percurso para adiquirií-la.
+
+O vendedor pode expor o produto em nosso site.
+Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 
 
 
