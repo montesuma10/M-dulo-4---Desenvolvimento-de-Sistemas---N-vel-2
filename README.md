@@ -2,7 +2,7 @@
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/logo.png" height="200">
 </div>
 
-colocar logo e nome embaixo centralizado
+
 ## Índice
 - [Sobre o projeto](sobre-o-projeo)
 - [Aplicação WEB](Aplicação-web)
@@ -29,13 +29,32 @@ Esta aplicação consiste em pesquisar por produtos e preços em feiras/pequenos
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20mobile.png" height="600">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20mobile.png" height="600">
 </div>
+
 ## Aplicação WEB 💻 
-img ou gif de funcionamento
+<div align="center">
+<img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20web.png" height="500">
+</div>
+
+
 ## Modelo conceitual 📑
-img do banco
+<div align="center">
+<img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/modelo-conceitual.png" height="500">
+</div>
 
 ## Tecnologias Utilizadas 👨‍💻 
-colocar simbolos das  tecnologias 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40">
+       
+                  
+</div>
+
 ### Backend
 ### Frontend
 ### Banco de dados
