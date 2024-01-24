@@ -24,7 +24,7 @@ Nesta plataforma os clientes podem pesquisar por feiras, filtrar seus produtos e
 
 O vendedor pode expor o produto em nosso site.
 Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
-
+<br>
 
 
 
@@ -35,13 +35,14 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20mobile.png" height="600">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20mobile.png" height="600">
 </div>
+<br>
 
 
 ## Aplicação WEB 💻 
 <div align="left">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20web.png" height="500">
 </div>
-
+<br>
 
 ## Acesso ao projeto 🖥
 
@@ -50,6 +51,7 @@ Para fazer o deploy desse projeto rode
 ```bash
   npm run deploy
 ```
+<br>
 
 
 
