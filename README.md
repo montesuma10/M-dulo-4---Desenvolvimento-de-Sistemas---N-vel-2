@@ -43,6 +43,14 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 </div>
 
 
+## Acesso ao projeto 🖥
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  npm run deploy
+```
+
 
 ## Modelo conceitual 📑
 <div align="center">
