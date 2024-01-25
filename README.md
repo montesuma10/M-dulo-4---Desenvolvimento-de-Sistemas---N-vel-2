@@ -34,7 +34,7 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 
 
 
-##  Aplicação Mobile 📱
+##  📱Aplicação Mobile 
 <div align="left">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20mobile.png" height="600">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20mobile.png" height="600">
