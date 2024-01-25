@@ -7,15 +7,15 @@
 ## Índice
 - <a href="#sobre-o-projeto">Sobre o projeto</a>
 - <a href="#aplicação-mobile">Aplicação Mobile</a>
+- <a href="#aplicação-web">Aplicação WEB</a>
+- <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
+- <a href="#como-contribuir">como contribuir</a>
 
 
-- [Sobre o projeto](sobre-o-projeo)
-- [Aplicação WEB](Aplicação-web)
-- [Aplicação Mobile](aplicação-mobile)
-- [modelo conceitual](modelo-conceitual)
-- [Tecnologias Utilizadas](tecnologias-utilizadas)
-- [Como contribuir](como-contribuir)
-- [Licenças](licenças)
+
+
+
+
 
 
 
