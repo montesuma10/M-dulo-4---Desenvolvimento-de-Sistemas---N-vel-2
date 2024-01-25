@@ -8,6 +8,8 @@
 - <a href="#sobre-o-projeto">Sobre o projeto</a>
 - <a href="#aplicação-mobile">Aplicação Mobile</a>
 - <a href="#aplicação-web">Aplicação WEB</a>
+- <a href="#demostração">Demostração</a>
+- <a href="#rodar">Como rodar este projeto?</a>
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
 - <a href="#como-contribuir">Como contribuir</a>
 
@@ -48,14 +50,18 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 </div>
 <br>
 
-## 🖥Acesso ao projeto 
+## 🖥Demonstração
 
-Para fazer o deploy desse projeto rode
+[Link demonstração(]Deploy)
+
+
+## ⚙Como rodar este  projeto?
 
 ```bash
-  npm run deploy
+# clone este repositório
+$ git clone
+
 ```
-<br>
 
 
 
