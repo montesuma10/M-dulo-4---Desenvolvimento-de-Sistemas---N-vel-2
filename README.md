@@ -42,13 +42,13 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 <br>
 
 
-## Aplicação WEB 💻 
+## 💻 Aplicação WEB 
 <div align="left">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20web.png" height="500">
 </div>
 <br>
 
-## Acesso ao projeto 🖥
+## 🖥Acesso ao projeto 
 
 Para fazer o deploy desse projeto rode
 
@@ -59,7 +59,7 @@ Para fazer o deploy desse projeto rode
 
 
 
-## Tecnologias Utilizadas 👨‍💻 
+## 👨‍💻Tecnologias Utilizadas 
 
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30"> [HTLM](https://www.w3schools.com/html/)
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"> [CSS](https://www.w3schools.com/css/)
@@ -74,9 +74,9 @@ Para fazer o deploy desse projeto rode
 
 
 
-## Como contribuir 🙋‍♂️
+## 🙋‍♂️Como contribuir
 
-## Licenças 📃
+## 📃Licenças 
 
 ## slide
 
