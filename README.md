@@ -9,7 +9,7 @@
 - <a href="#aplicação-mobile">Aplicação Mobile</a>
 - <a href="#aplicação-web">Aplicação WEB</a>
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
-- <a href="#como-contribuir">como contribuir</a>
+- <a href="#como-contribuir">Como contribuir</a>
 
 
 
