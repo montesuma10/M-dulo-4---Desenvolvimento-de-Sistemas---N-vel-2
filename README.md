@@ -5,7 +5,7 @@
 
 
 ## Índice
-- <a href="##sobre-o-projeto">Sobre o projeto</a>
+- <a href="#sobre-o-projeto">Sobre o projeto</a>
 - <a href="##aplicação-mobile">Aplicação Mobile</a>
 
 
@@ -20,7 +20,7 @@
 
 
 
-##  💡 Sobre o projeto 
+##  💡Sobre o projeto 
 Comércio Fácil é uma aplicação full stack web e mobile contruída durante a jornada da [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo de  2023.
 
 Esta aplicação tem por objetivo conectar de forma eficas o pequeno comércio aos seus clientes.
