@@ -42,7 +42,7 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 <br>
 
 
-## 💻 Aplicação WEB 
+## 💻Aplicação WEB 
 <div align="left">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/designer%20web.png" height="500">
 </div>
