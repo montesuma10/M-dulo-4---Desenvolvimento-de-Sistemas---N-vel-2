@@ -5,6 +5,7 @@
 
 
 ## Índice
+- <a href="##sobre-o-projeto">Sobre o projeto</a>
 - [Sobre o projeto](sobre-o-projeo)
 - [Aplicação WEB](Aplicação-web)
 - [Aplicação Mobile](aplicação-mobile)
