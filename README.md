@@ -78,6 +78,7 @@ $ git clone
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40">
+  <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/thymeleaf.png" height="45">
  
 
                   
