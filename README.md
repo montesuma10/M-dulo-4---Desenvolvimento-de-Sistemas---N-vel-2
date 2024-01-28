@@ -17,7 +17,7 @@
 
 O **Comércio Fácil** é uma aplicação full stack responsiva construída durante o bootcamp de formação [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo 2023.
 
-<p><a href="https://www.submarino.com.br/" target="_blank" rel="external">Recode Pro</a></p>
+
 
 Esta aplicação tem por objetivo conectar de forma eficas o pequeno comércio aos seus clientes.
 Nesta plataforma os clientes podem pesquisar por feiras, filtrar seus produtos e visualizar preços, além do percurso para adiquirií-la.
@@ -58,15 +58,15 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 </div>
 
 ## 🙋‍♂️ Como contribuir
-- Quer adicionar uma feira ou produto que não está listado? [Abra uma Issue](link-para-criar-issue) e forneça os detalhes para incluirmos no site.
-- Quer adicionar uma feira ou produto que não está listado? [Abra uma Issue](link-para-criar-issue) e forneça os detalhes para incluirmos no site.
-- Gosta de design ou desenvolvimento? [Confira nosso guia de contribuição](link-para-guia-de-contribuicao) para saber como você pode colaborar no desenvolvimento do site.
+- Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluirmos no site.
+- Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluirmos no site.
+- Gosta de design ou desenvolvimento? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) para saber como você pode colaborar no desenvolvimento do site.
 
 
 
 ## ✔ Próximas features
 
-- [ ] Adicionar suporte a autenticação de usuários.
+- [x] Adicionar suporte a autenticação de usuários.
 - [ ] Implementar um sistema de notificações em tempo real.
 - [ ] Melhorar a experiência do usuário na página de checkout.
 - [ ] Adicionar suporte a temas personalizáveis.
