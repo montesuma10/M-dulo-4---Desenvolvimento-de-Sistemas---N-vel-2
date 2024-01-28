@@ -6,7 +6,7 @@
 ## Índice
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Previews](#previews)
-- [Demonstração](#demonstração)
+- [Demonstração](#demonstracao)
 - [Como Clonar Este Projeto](#como-clonar-este-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Contribuir](#como-contribuir)
@@ -14,6 +14,7 @@
 - [Licenças](#licencas)
 
 ## 💡 Sobre o projeto
+<a name="sobre-o-projeto"></a>
 
 O **Comércio Fácil** é uma aplicação full stack responsiva construída durante o bootcamp de formação [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo 2023.
 
@@ -27,15 +28,20 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 <br>
 
 ## 💻 Previews
+<a name="previews"></a>
+
 ![responsividade](https://github.com/squad25-recodePro23/comercioFacil-squad25/assets/85527665/ccb3e406-1578-4afb-8a32-45d74bf16142)
 
 ## 🖥 Demonstração
+<a name="demonstracao"></a>
 
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/logo.png" height="60"> 
 
 [**Link demonstração**](https://teste-squad.onrender.com/)
 <br>
+
 ## ⚙ Como clonar este projeto?
+<a name="como-clonar-este-projeto"></a>
 
 ```bash
 # clone este repositório;
@@ -45,6 +51,7 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 
 ## 👨‍💻 Tecnologias utilizadas
+<a name="tecnologias-utilizadas"></a>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" title='HTML'>
@@ -57,7 +64,10 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
   <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/thymeleaf.png" height="45" title='Thymeleaf'>                  
 </div>
 
+
 ## 🙋‍♂️ Como contribuir
+<a name="como-contribuir"></a>
+
 - Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluirmos no site.
 - Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluirmos no site.
 - Gosta de design ou desenvolvimento? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) para saber como você pode colaborar no desenvolvimento do site.
@@ -65,17 +75,19 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 
 ## ✔ Próximas features
+<a name="proximas-features"></a>
 
 - [x] Adicionar suporte a autenticação de usuários.
 - [ ] Implementar um sistema de notificações em tempo real.
 - [ ] Melhorar a experiência do usuário na página de checkout.
 - [ ] Adicionar suporte a temas personalizáveis.
-<a name="proximas-features"></a>
+
 
 
 ## 📃 Licenças
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 <a name="licencas"></a>
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+
 
 
 
