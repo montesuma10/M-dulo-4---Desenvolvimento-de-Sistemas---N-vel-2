@@ -6,11 +6,13 @@
 ## Índice
 - <a href="#sobre-o-projeto">Sobre o projeto</a>
 - <a href="#previews">Previews</a>
-- <a href="#aplicação-web">Aplicação WEB</a>
+
 - <a href="#demonstração">Demonstração</a>
-- <a href="#como-rodar-rodar-este-projeto-?">Como rodar este projeto?</a>
+- <a href="#como-clonar-este-projeto-?">Como clonar este projeto?</a>
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
 - <a href="#como-contribuir">Como contribuir</a>
+- <a href="#proximas-features">Próximas features</a>
+- <a href="#licenças">Licenças</a>
 
 ## 💡 Sobre o projeto
 
@@ -55,7 +57,7 @@ $ git clone
 
 ## 🙋‍♂️ Como contribuir:
 
-## Próximas features:
+## ✔ Próximas features:
 
 - [ ] Item 1
 - [ ] Item 2
