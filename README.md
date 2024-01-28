@@ -75,6 +75,11 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 ## 📃 Licenças
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
+## Como Contribuir
+- Conteúdo da seção...
+- Conteúdo da seção...
+<a name="como-contribuir"></a>
+
 
 
 
