@@ -5,7 +5,7 @@
 
 ## Índice
 - <a href="#sobre-o-projeto">Sobre o projeto</a>
-- <a href="#oreviews">Aplicação Previews</a>
+- <a href="#previews">Previews</a>
 - <a href="#aplicação-web">Aplicação WEB</a>
 - <a href="#demonstração">Demonstração</a>
 - <a href="#como-rodar-rodar-este-projeto-?">Como rodar este projeto?</a>
