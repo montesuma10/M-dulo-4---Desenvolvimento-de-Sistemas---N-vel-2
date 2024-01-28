@@ -12,6 +12,7 @@
 - [Como Contribuir](#como-contribuir)
 - [Próximas Features](#proximas-features)
 - [Licenças](#licencas)
+- [contatos](#contatos)
 
 ## 💡 Sobre o projeto <a name="sobre-o-projeto"></a>
 
@@ -87,6 +88,8 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 ## 📃 Licenças <a name="licencas"></a>
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+
+## Contatos <a name="contatos"></a>
 
 
 
