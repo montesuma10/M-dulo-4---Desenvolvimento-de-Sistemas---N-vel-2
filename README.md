@@ -11,7 +11,7 @@
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Contribuir](#como-contribuir)
 - [Próximas Features](#próximas-features)
-- [Licenças](#licenças)
+- [Licenças](#licencas)
 
 ## 💡 Sobre o projeto
 
@@ -74,11 +74,8 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ## 📃 Licenças
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+<a name="licencas"></a>
 
-## Como Contribuir
-- Conteúdo da seção...
-- Conteúdo da seção...
-<a name="como-contribuir"></a>
 
 
 
