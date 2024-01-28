@@ -4,15 +4,15 @@
 </div>
 
 ## Índice
-- <a href="#sobre-o-projeto:">Sobre o projeto:</a>
-- <a href="#oreviews:">Aplicação Previews:</a>
+- <a href="#sobre-o-projeto">Sobre o projeto</a>
+- <a href="#oreviews">Aplicação Previews</a>
 - <a href="#aplicação-web">Aplicação WEB</a>
 - <a href="#demonstração">Demonstração</a>
 - <a href="#como-rodar-rodar-este-projeto-?">Como rodar este projeto?</a>
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
 - <a href="#como-contribuir">Como contribuir</a>
 
-## 💡 Sobre o projeto :
+## 💡 Sobre o projeto
 
 O **Comércio Fácil** é uma aplicação full stack responsiva construída durante o bootcamp de formação [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo 2023.
 
