@@ -32,8 +32,8 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 
 ## 🖥 Demonstração
 
-[Link demonstração(]Deploy)
-
+[**Link demonstração**](https://teste-squad.onrender.com/)
+<br>
 ## ⚙ Como clonar este projeto?
 
 ```bash
@@ -63,6 +63,7 @@ $ git clone
 - [ ] Item 2
 
 ## 📃 Licenças
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 
 
