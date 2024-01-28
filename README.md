@@ -38,7 +38,7 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/logo.png" height="60"> 
 
-[**Link demonstração**](https://teste-squad.onrender.com/)
+## [**Link demonstração**](https://teste-squad.onrender.com/)
 <br>
 
 ## ⚙ Como clonar este projeto? <a name="como-clonar-este-projeto"></a>
@@ -90,7 +90,7 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 ## 📩 Contatos <a name="contatos"></a>
- ### [SQUAD 25](https://github.com/squad25-recodePro2023#-nossos-contatos)
+ ### [**SQUAD 25**](https://github.com/squad25-recodePro2023#-nossos-contatos)
 
 
 
