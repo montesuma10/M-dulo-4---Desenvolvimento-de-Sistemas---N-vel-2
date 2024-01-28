@@ -58,11 +58,19 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 </div>
 
 ## 🙋‍♂️ Como contribuir
+- Quer adicionar uma feira ou produto que não está listado? [Abra uma Issue](link-para-criar-issue) e forneça os detalhes para incluirmos no site.
+- Quer adicionar uma feira ou produto que não está listado? [Abra uma Issue](link-para-criar-issue) e forneça os detalhes para incluirmos no site.
+- Gosta de design ou desenvolvimento? [Confira nosso guia de contribuição](link-para-guia-de-contribuicao) para saber como você pode colaborar no desenvolvimento do site.
+
+
 
 ## ✔ Próximas features
 
-- [x] Item 1
-- [ ] Item 2
+- [ ] Adicionar suporte a autenticação de usuários.
+- [ ] Implementar um sistema de notificações em tempo real.
+- [ ] Melhorar a experiência do usuário na página de checkout.
+- [ ] Adicionar suporte a temas personalizáveis.
+
 
 ## 📃 Licenças
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
