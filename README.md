@@ -14,7 +14,7 @@
 - <a href="#proximas-features">Próximas features</a>
 - <a href="#licenças">Licenças</a>
 
-## 💡  Sobre o projeto
+##💡 Sobre o projeto
 
 O **Comércio Fácil** é uma aplicação full stack responsiva construída durante o bootcamp de formação [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo 2023.
 
