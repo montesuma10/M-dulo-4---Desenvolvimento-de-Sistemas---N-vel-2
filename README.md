@@ -2,28 +2,16 @@
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/logo.png" height="200">
   <h1><strong>Comércio Fácil -  Squad 25 - Recode Pro 2023<strong</h1>
 </div>
-
+    
 ## Índice
-- <a href="#sobre">Sobre o projeto</a>
-- <a href="#previews">Previews</a>
-
-- <a href="#demonstração">Demonstração</a>
-- <a href="#como-clonar-este-projeto-?">Como clonar este projeto?</a>
-- <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
-- <a href="#como-contribuir">Como contribuir</a>
-- <a href="#proximas-features">Próximas features</a>
-- <a href="#licenças">Licenças</a>
-
-## Índice
-- [Sobre o Projeto](#sobre)
+- [Sobre o Projeto](#sobre-o-projeto)
 - [Previews](#previews)
 - [Demonstração](#demonstração)
-- [Como Clonar Este Projeto?](#como-clonar-este-projeto)
+- [Como Clonar Este Projeto](#como-clonar-este-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Contribuir](#como-contribuir)
-- [Próximas Features](#proximas-features)
+- [Próximas Features](#próximas-features)
 - [Licenças](#licenças)
-
 
 ## 💡 Sobre o projeto
 
