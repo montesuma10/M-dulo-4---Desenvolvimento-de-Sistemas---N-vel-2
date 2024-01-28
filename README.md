@@ -30,7 +30,7 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 ## 💻 Previews
 ![responsividade](https://github.com/squad25-recodePro23/comercioFacil-squad25/assets/85527665/ccb3e406-1578-4afb-8a32-45d74bf16142)
 
-## 🖥 Demonstração:
+## 🖥 Demonstração
 
 [Link demonstração(]Deploy)
 
@@ -42,7 +42,7 @@ $ git clone
 
 ```
 
-## 👨‍💻 Tecnologias utilizadas:
+## 👨‍💻 Tecnologias utilizadas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" title='HTML'>
@@ -55,14 +55,14 @@ $ git clone
   <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/thymeleaf.png" height="45" title='Thymeleaf'>                  
 </div>
 
-## 🙋‍♂️ Como contribuir:
+## 🙋‍♂️ Como contribuir
 
-## ✔ Próximas features:
+## ✔ Próximas features
 
 - [x] Item 1
 - [ ] Item 2
 
-## 📃 Licenças:
+## 📃 Licenças
 
 
 
