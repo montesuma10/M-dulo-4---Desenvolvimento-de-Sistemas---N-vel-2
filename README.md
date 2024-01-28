@@ -68,8 +68,8 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 ## 🙋‍♂️ Como contribuir <a name="como-contribuir"></a>
 
 
-- Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluirmos no site.
-- Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluirmos no site.
+- Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluírmos no site.
+- Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluírmos no site.
 - Gosta de design ou desenvolvimento? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) para saber como você pode colaborar no desenvolvimento do site.
 
 
