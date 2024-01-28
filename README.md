@@ -59,7 +59,7 @@ $ git clone
 
 ## ✔ Próximas features:
 
-- [ ] Item 1
+- [x] Item 1
 - [ ] Item 2
 
 ## 📃 Licenças:
