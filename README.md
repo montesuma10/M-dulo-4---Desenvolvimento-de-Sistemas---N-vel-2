@@ -10,7 +10,7 @@
 - [Como Clonar Este Projeto](#como-clonar-este-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Contribuir](#como-contribuir)
-- [Próximas Features](#próximas-features)
+- [Próximas Features](#proximas-features)
 - [Licenças](#licencas)
 
 ## 💡 Sobre o projeto
@@ -70,6 +70,7 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 - [ ] Implementar um sistema de notificações em tempo real.
 - [ ] Melhorar a experiência do usuário na página de checkout.
 - [ ] Adicionar suporte a temas personalizáveis.
+<a name="proximas-features"></a>
 
 
 ## 📃 Licenças
