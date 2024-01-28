@@ -4,8 +4,8 @@
 </div>
 
 ## Índice
-- <a href="#sobre-o-projeto">Sobre o projeto</a>
-- <a href="#aplicação-mobile">Aplicação Mobile</a>
+- <a href="#sobre-o-projeto:">Sobre o projeto:</a>
+- <a href="#oreviews:">Aplicação Previews:</a>
 - <a href="#aplicação-web">Aplicação WEB</a>
 - <a href="#demonstração">Demonstração</a>
 - <a href="#como-rodar-rodar-este-projeto-?">Como rodar este projeto?</a>
@@ -25,7 +25,7 @@ O vendedor pode expor o produto em nosso site.
 Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 <br>
 
-## 💻 Previews:
+## 💻 Previews
 ![responsividade](https://github.com/squad25-recodePro23/comercioFacil-squad25/assets/85527665/ccb3e406-1578-4afb-8a32-45d74bf16142)
 
 ## 🖥 Demonstração:
