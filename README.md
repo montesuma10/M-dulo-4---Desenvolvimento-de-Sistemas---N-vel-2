@@ -14,7 +14,18 @@
 - <a href="#proximas-features">Próximas features</a>
 - <a href="#licenças">Licenças</a>
 
-##💡 Sobre o projeto
+## Índice
+- [Sobre o Projeto](#sobre)
+- [Previews](#previews)
+- [Demonstração](#demonstração)
+- [Como Clonar Este Projeto?](#como-clonar-este-projeto)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Contribuir](#como-contribuir)
+- [Próximas Features](#proximas-features)
+- [Licenças](#licenças)
+
+
+## 💡 Sobre o projeto
 
 O **Comércio Fácil** é uma aplicação full stack responsiva construída durante o bootcamp de formação [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo 2023.
 
@@ -40,7 +51,8 @@ Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 
 ```bash
 # clone este repositório;
-$ git clone
+$ git clone https://github.com/seu-usuario/seu-repositorio.git
+
 
 ```
 
