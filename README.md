@@ -18,7 +18,7 @@
 
 O **Comércio Fácil** é uma aplicação full stack responsiva construída durante o bootcamp de formação [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo 2023.
 
-<p>Para acessar o site da submarino <a href="https://recodepro.org.br//" target="_blank" rel="external">clique aqui</a></p>
+<p><a href="https://www.submarino.com.br/" target="_blank" rel="external">Recode Pro</a></p>
 
 Esta aplicação tem por objetivo conectar de forma eficas o pequeno comércio aos seus clientes.
 Nesta plataforma os clientes podem pesquisar por feiras, filtrar seus produtos e visualizar preços, além do percurso para adiquirií-la.
