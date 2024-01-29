@@ -37,7 +37,7 @@ O vendedor pode expor o produto em nosso site, no qual visa ajudar os 2 lados, t
 
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/logo.png" height="60"> 
 
-### [**Link demonstração**](https://teste-squad.onrender.com/)
+### [**Link demonstração**](https://comerciofacil.onrender.com/)
 <br>
 
 ## ⚙ Como clonar este projeto? <a name="como-clonar-este-projeto"></a>
