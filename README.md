@@ -69,7 +69,7 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 
 - Quer adicionar uma feira  que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluírmos no site.
-- Quer adicionar uma feira ou produto que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluírmos no site.
+- Tem alguma sugestão para contribuir com a nossa plataforma? Entre em contato com nosso email[Squad 25](mailto:squad25.recode2023@gmail.com) e saiba mais detalhes.
 - Gosta de design ou desenvolvimento? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) para saber como você pode colaborar no desenvolvimento do site.
 
 
