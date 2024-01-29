@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/montesuma10/M-dulo-4---Desenvolvimento-de-Sistemas---N-vel-2/blob/main/logo.png" height="200">
-  <h1><strong>Comércio Fácil -  Squad 25 - Recode Pro 2023<strong</h1>
+  <h1><strong>Comércio Fácil -  Squad 25<strong</h1>
 </div>
     
 ## Índice
