@@ -22,10 +22,9 @@ O **Comércio Fácil** é uma aplicação full stack responsiva construída dura
 
 
 Esta aplicação tem por objetivo conectar de forma eficaz o pequeno comércio aos seus clientes.
-Nesta plataforma os clientes podem pesquisar por feiras, filtrar seus produtos e visualizar preços, além do percurso para adiquirií-la.
+Nesta plataforma os clientes podem pesquisar por feiras, filtrar seus produtos e visualizar preços, além do percurso para adiquirí-la.
 
-O vendedor pode expor o produto em nosso site.
-Este site visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
+O vendedor pode expor o produto em nosso site, no qual visa ajudar os 2 lados, tanto o vendedor como o consumidor. 🛒
 <br>
 
 ## 💻 Previews <a name="previews"></a>
