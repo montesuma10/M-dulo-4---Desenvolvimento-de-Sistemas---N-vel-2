@@ -69,7 +69,7 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 
 - Quer adicionar uma feira  que não está listado? Fale com [Squad 25](mailto:squad25.recode2023@gmail.com) e forneça os detalhes para incluírmos no site.
-- Tem alguma sugestão para contribuir com a nossa plataforma? Entre em contato com nosso email[Squad 25](mailto:squad25.recode2023@gmail.com) e saiba mais detalhes.
+- Tem alguma sugestão para contribuir com a nossa plataforma? Entre em contato com nosso email [Squad 25](mailto:squad25.recode2023@gmail.com) e saiba mais detalhes.
 - Gostaria de contribuir com o código? Vá para o nosso email [Squad 25](mailto:squad25.recode2023@gmail.com) para seguir os próximos passos.
 
 
@@ -77,10 +77,10 @@ $ git clone https://github.com/seu-usuario/seu-repositorio.git
 ## ✔ Próximas features <a name="proximas-features"></a>
 
 
-- [x] Adicionar suporte a autenticação de usuários.
+- [ ] Adicionar suporte a autenticação de usuários.
 - [ ] Implementar um sistema de notificações em tempo real.
-- [ ] Melhorar a experiência do usuário na página de checkout.
-- [ ] Adicionar suporte a temas personalizáveis.
+- [ ] Melhorar a experiência do cliente no contato com o empreendedor.
+- [ ] Adicionar chat na plataforma entre o empreendedor e o cliente.
 
 
 
